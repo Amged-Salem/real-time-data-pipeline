@@ -1,0 +1,4 @@
+
+airflow/logs/
+airflow/plugins/
+alertmanager/alertmanager.yml
