@@ -1,4 +1,4 @@
-# Real-Time E-Commerce Data Pipeline with Agentic AI
+# Real-Time E-Commerce Data Pipeline with Observability
 
 A production-grade, fully containerized data pipeline combining **real-time stream processing** with **scheduled batch jobs**, built on the Lambda Architecture pattern.
 
